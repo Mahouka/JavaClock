@@ -11,7 +11,7 @@ function onloadFunctions() {
 	var count = 0;
 	var refId = null;
 	var target = document.getElementById("aux"),
-		n;
+		n; // Variable Declaration
 
 	var countUp = function() {
 		n = new Date();
