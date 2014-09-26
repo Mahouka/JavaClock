@@ -19,7 +19,7 @@ function onloadFunctions() {
 		target.innerHTML = t;
 	}
 
-	refId = window.setInterval(countUp, 1000); //Masukin interval ke ref id
+	refId = window.setInterval(countUp, 1000); //Masukin interval ke ref id Andre
 }
 </script>
 </body>
